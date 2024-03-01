@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Petar3010
 - 👀 I’m interested in information technologies
-- 🌱 I’m currently learning quality assurance (QA)
+- 🌱 I’m currently learnining python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
